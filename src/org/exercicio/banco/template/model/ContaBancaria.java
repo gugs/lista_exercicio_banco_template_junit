@@ -1,5 +1,12 @@
 package org.exercicio.banco.template.model;
 
+/**
+*
+* Nome:
+* Curso:
+* Matrícula:
+* 
+*/
 public class ContaBancaria {
 	private int numeroConta;
 	private String titular;
